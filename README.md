@@ -5,7 +5,7 @@
 
 
 
-- :computer: I’m currently a Data Science student at [Codeup](https://https://codeup.com/)
+- :computer: I’m currently a Data Science student at [Codeup](http://codeup.com/)
 
 
 - 🌱  I’m currently learning **Spark**
