@@ -8,7 +8,7 @@
 - :computer: I’m currently a Data Science student at [Codeup](http://codeup.com/)
 
 
-- 🌱  I’m currently learning **Spark**
+- 🌱  I’m currently working in a Capstone project **Attention Walmart Shoppers**
 
 - 📫  You can connect with me through 
 <a href="https://linkedin.com/in/cindyvillanuevads" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cindyvillanuevads" height="30" width="40" /></a> ||
